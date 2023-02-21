@@ -1,0 +1,961 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.22 (MiKTeX 21.2) (preloaded format=pdflatex 2021.4.23)  4 JAN 2023 10:15
+entering extended mode
+**./Appendix.tex
+(Appendix.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> xparse <2020-03-03>
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cl
+s
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\size12.clo
+File: size12.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count179
+\c@section=\count180
+\c@subsection=\count181
+\c@subsubsection=\count182
+\c@paragraph=\count183
+\c@subparagraph=\count184
+\c@figure=\count185
+\c@table=\count186
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\times.st
+y
+Package: times 2020/03/25 PSNFSS-v9.3 (SPQR) 
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.st
+y
+Package: fontenc 2020/08/10 v2.0s Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+ptm on input line 11
+2.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/psnfss\t1ptm.fd
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/ragged2e\ragged
+2e.sty
+Package: ragged2e 2021/02/05 v3.0 ragged2e Package
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everys
+el.sty
+Package: everysel 2021/01/20 v2.1 EverySelectfont Package (MS)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/everysel\everys
+el-2011-10-28.sty))
+\CenteringLeftskip=\skip49
+\RaggedLeftLeftskip=\skip50
+\RaggedRightLeftskip=\skip51
+\CenteringRightskip=\skip52
+\RaggedLeftRightskip=\skip53
+\RaggedRightRightskip=\skip54
+\CenteringParfillskip=\skip55
+\RaggedLeftParfillskip=\skip56
+\RaggedRightParfillskip=\skip57
+\JustifyingParfillskip=\skip58
+\CenteringParindent=\skip59
+\RaggedLeftParindent=\skip60
+\RaggedRightParindent=\skip61
+\JustifyingParindent=\skip62
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjus
+tbox.sty
+Package: adjustbox 2020/08/19 v1.3 Adjusting TeX boxes (trim, clip, ...)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/xkeyval\xkeyval
+.sty
+Package: xkeyval 2020/11/20 v2.8 package option processing (HA)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkeyv
+al.tex
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvut
+ils.tex
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\keyva
+l.tex))
+\XKV@depth=\count187
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\adjca
+lc.sty
+Package: adjcalc 2012/05/16 v1.1 Provides advanced setlength with multiple back
+-ends (calc, etex, pgfmath)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\trimc
+lip.sty
+Package: trimclip 2020/08/19 v1.2 Trim and clip general TeX material
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cx.sty
+Package: graphicx 2020/09/09 v1.2b Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphi
+cs.sty
+Package: graphics 2020/08/30 v1.4c Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.s
+ty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\gr
+aphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 105.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pd
+ftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/collectbox\coll
+ectbox.sty
+Package: collectbox 2012/05/17 v0.4b Collect macro arguments as boxes
+\collectedbox=\box47
+)
+\tc@llx=\dimen141
+\tc@lly=\dimen142
+\tc@urx=\dimen143
+\tc@ury=\dimen144
+Package trimclip Info: Using driver 'tc-pdftex.def'.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/adjustbox\tc-pd
+ftex.def
+File: tc-pdftex.def 2019/01/04 v2.2 Clipping driver for pdftex
+))
+\adjbox@Width=\dimen145
+\adjbox@Height=\dimen146
+\adjbox@Depth=\dimen147
+\adjbox@Totalheight=\dimen148
+\adjbox@pwidth=\dimen149
+\adjbox@pheight=\dimen150
+\adjbox@pdepth=\dimen151
+\adjbox@ptotalheight=\dimen152
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/ifoddpage\ifodd
+page.sty
+Package: ifoddpage 2016/04/23 v1.1 Conditionals for odd/even page detection
+\c@checkoddpage=\count188
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/varwidth\varwid
+th.sty
+Package: varwidth 2009/03/30 ver 0.92;  Variable-width minipages
+\@vwid@box=\box48
+\sift@deathcycles=\count189
+\@vwid@loff=\dimen153
+\@vwid@roff=\dimen154
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/setspace\setspa
+ce.sty
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.s
+ty
+Package: babel 2021/01/26 3.53 The Babel package
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.d
+ef
+File: babel.def 2021/01/26 3.53 Babel common definitions
+\babel@savecnt=\count190
+\U@D=\dimen155
+\l@babelnohyphens=\language79
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabe
+l.def)
+\bbl@readstream=\read2
+)
+\bbl@dirlevel=\count191
+
+*************************************
+* Local config file bblopts.cfg used
+*
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.c
+fg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+Package babel Info: You haven't specified a language. I'll use 'nil'
+(babel)             as the main language. Reported on input line 1159.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/babel\nil.ldf
+Language: nil 2021/01/26 3.53 Nil language
+\l@nil=\language80
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type.sty
+Package: microtype 2021/03/14 v2.8c Micro-typographical refinements (RS)
+\MT@toks=\toks17
+\MT@count=\count192
+LaTeX Info: Redefining \textls on input line 790.
+\MT@outer@kern=\dimen156
+LaTeX Info: Redefining \textmicrotypecontext on input line 1374.
+\MT@listname@count=\count193
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type-pdftex.def
+File: microtype-pdftex.def 2021/03/14 v2.8c Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 915.
+LaTeX Info: Redefining \lslig on input line 915.
+\MT@outer@space=\skip63
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\micro
+type.cfg
+File: microtype.cfg 2021/03/14 v2.8c microtype main configuration file (RS)
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks18
+\float@box=\box49
+\@float@everytoks=\toks19
+\@floatcapt=\box50
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/caption\subcapt
+ion.sty
+Package: subcaption 2020/10/07 v1.3j Sub-captions (AR)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption
+3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen157
+\captionmargin@=\dimen158
+\captionwidth=\dimen159
+\caption@tempdima=\dimen160
+\caption@indent=\dimen161
+\caption@parindent=\dimen162
+\caption@hangindent=\dimen163
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count195
+\c@continuedfloat=\count196
+Package caption Info: float package is loaded.
+)
+\c@subfigure=\count197
+\c@subtable=\count198
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.s
+ty
+Package: inputenc 2020/08/01 v1.3d Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/blindtext\blind
+text.sty
+Package: blindtext 2012/01/06 V2.0 blindtext-Package
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/latex-tools\xsp
+ace.sty
+Package: xspace 2014/10/28 v1.13 Space after command names (DPC,MH)
+)
+\c@blindtext=\count199
+\c@Blindtext=\count266
+\c@blind@countparstart=\count267
+\blind@countxx=\count268
+\blindtext@numBlindtext=\count269
+\blind@countyy=\count270
+\c@blindlist=\count271
+\c@blindlistlevel=\count272
+\c@blindlist@level=\count273
+\blind@listitem=\count274
+\c@blind@listcount=\count275
+\c@blind@levelcount=\count276
+\blind@mathformula=\count277
+\blind@Mathformula=\count278
+\c@blind@randomcount=\count279
+\c@blind@randommax=\count280
+\c@blind@pangramcount=\count281
+\c@blind@pangrammax=\count282
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath
+.sty
+Package: amsmath 2020/09/23 v2.17i AMS math features
+\@mathmargin=\skip64
+
+For additional information on amsmath, use the `?' option.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext
+.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.
+sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks22
+\ex@=\dimen164
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.
+sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen165
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.
+sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count283
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count284
+\leftroot@=\count285
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count286
+\DOTSCASE@=\count287
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box51
+\strutbox@=\box52
+\big@size=\dimen166
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count288
+\c@MaxMatrixCols=\count289
+\dotsspace@=\muskip16
+\c@parentequation=\count290
+\dspbrk@lvl=\count291
+\tag@help=\toks23
+\row@=\count292
+\column@=\count293
+\maxfields@=\count294
+\andhelp@=\toks24
+\eqnshift@=\dimen167
+\alignsep@=\dimen168
+\tagshift@=\dimen169
+\tagwidth@=\dimen170
+\totwidth@=\dimen171
+\lineht@=\dimen172
+\@envbody=\toks25
+\multlinegap=\skip65
+\multlinetaggap=\skip66
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2923.
+LaTeX Info: Redefining \] on input line 2924.
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssym
+b.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfon
+ts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/natbib\natbib.s
+ty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip67
+\bibsep=\skip68
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count295
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef.sty
+Package: hyperref 2021-02-10 v7.00j Hypertext links for LaTeX
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcm
+ds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.s
+ty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pd
+ftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\inf
+warerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvs
+etkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\
+kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/pdfescape\pdf
+escape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hycolor\hycolor
+.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/letltxmacro\let
+ltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/auxhook\auxhook
+.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvopt
+ions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen173
+\Hy@linkcounter=\count296
+\Hy@pagecounter=\count297
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\pd1enc
+.def
+File: pd1enc.def 2021-02-10 v7.00j Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hyperr
+ef-langpatches.def
+File: hyperref-langpatches.def 2021-02-10 v7.00j Hyperref: patches for babel la
+nguages
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/intcalc\intca
+lc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/etexcmds\etex
+cmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count298
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\puenc.
+def
+File: puenc.def 2021-02-10 v7.00j Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count299
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen174
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/bitset\bitset
+.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/bigintcalc\bi
+gintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO
+)
+))
+\Fld@menulength=\count300
+\Field@Width=\dimen175
+\Fld@charsize=\dimen176
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\atbegshi-l
+tx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi packa
+ge
+with kernel methods
+)
+\Hy@abspage=\count301
+\c@Item=\count302
+\c@Hfootnote=\count303
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\hpdfte
+x.def
+File: hpdftex.def 2021-02-10 v7.00j Hyperref driver for pdfTeX
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/base\atveryend-
+ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery packag
+e
+with kernel methods
+)
+\Fld@listcount=\count304
+\c@bookmark@seq@number=\count305
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/rerunfilecheck\
+rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/uniquecounter
+\uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+86.
+)
+\Hy@SectionHShift=\skip69
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/iftex\ifvtex.
+sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+)
+\Gm@cnth=\count306
+\Gm@cntv=\count307
+\c@Gm@tempcnt=\count308
+\Gm@bindingoffset=\dimen177
+\Gm@wd@mp=\dimen178
+\Gm@odd@mp=\dimen179
+\Gm@even@mp=\dimen180
+\Gm@layoutwidth=\dimen181
+\Gm@layoutheight=\dimen182
+\Gm@layouthoffset=\dimen183
+\Gm@layoutvoffset=\dimen184
+\Gm@dimlist=\toks27
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/geometry\geomet
+ry.cfg))
+\c@theorem=\count309
+\c@corollary=\count310
+\c@definition=\count311
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3bac
+kend-pdftex.def
+File: l3backend-pdftex.def 2021-02-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count312
+\l__pdf_internal_box=\box53
+) (Appendix.aux)
+\openout1 = `Appendix.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 39.
+LaTeX Font Info:    ... okay on input line 39.
+ ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 39.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\sup
+p-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count313
+\scratchdimen=\dimen185
+\scratchbox=\box54
+\nofMPsegments=\count314
+\nofMParguments=\count315
+\everyMPshowfont=\toks28
+\MPscratchCnt=\count316
+\MPscratchDim=\dimen186
+\MPnumerator=\count317
+\makeMPintoPDFobject=\count318
+\everyMPtoPDFconversion=\toks29
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\ep
+stopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+)
+LaTeX Info: Redefining \microtypecontext on input line 39.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `alltext-nott'.
+LaTeX Info: Redefining \showhyphens on input line 39.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-pt
+m.cfg
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: hyperref package is loaded.
+Package caption Info: End \AtBeginDocument code.
+Package hyperref Info: Link coloring OFF on input line 39.
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/hyperref\namere
+f.sty
+Package: nameref 2021-04-02 v2.47 Cross-referencing by name of section
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/refcount\refcou
+nt.sty
+Package: refcount 2019/12/15 v3.6 Data extraction from label references (HO)
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/generic/gettitlestrin
+g\gettitlestring.sty
+Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
+)
+\c@section@level=\count319
+)
+LaTeX Info: Redefining \ref on input line 39.
+LaTeX Info: Redefining \pageref on input line 39.
+LaTeX Info: Redefining \nameref on input line 39.
+ (Appendix.out) (Appendix.out)
+\@outlinefile=\write3
+\openout3 = `Appendix.out'.
+
+
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: <default>
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: 
+* h-part:(L,W,R)=(71.13188pt, 472.03123pt, 71.13188pt)
+* v-part:(T,H,B)=(71.13188pt, 652.70622pt, 71.13188pt)
+* \paperwidth=614.295pt
+* \paperheight=794.96999pt
+* \textwidth=472.03123pt
+* \textheight=652.70622pt
+* \oddsidemargin=-1.1381pt
+* \evensidemargin=-1.1381pt
+* \topmargin=-38.1381pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=44.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-cm
+r.cfg
+File: mt-cmr.cfg 2013/05/19 v2.2 microtype config. file: Computer Modern Roman 
+(RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 42.
+
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.f
+d
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ms
+a.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 42.
+
+
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.f
+d
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+(C:\Users\Caio Forcione\AppData\Local\Programs\MiKTeX\tex/latex/microtype\mt-ms
+b.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+
+LaTeX Warning: No \author given.
+
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/cambio_cambio.png, id=3, 698.61pt x
+ 354.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/cambio_cambio.png Graphic file
+ (type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/cambio_cambio.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/cambio_camb
+io.png  used on input line 45.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/cambio_ipca.png, id=4, 698.61pt x 3
+54.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/cambio_ipca.png Graphic file (
+type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/cambio_ipca.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/cambio_ipca
+.png  used on input line 53.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/cambio_juros.png, id=5, 698.61pt x 
+354.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/cambio_juros.png Graphic file 
+(type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/cambio_juros.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/cambio_juro
+s.png  used on input line 61.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+[1
+
+{C:/Users/Caio Forcione/AppData/Local/MiKTeX/pdftex/config/pdftex.map} <C:/User
+s/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Ser
+ies/3. Trabalho Final/4. Regressão/cambio_cambio.png> <C:/Users/Caio Forcione/
+Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3. Trabalho 
+Final/4. Regressão/cambio_ipca.png>]
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/cambio_pib.png, id=17, 698.61pt x 3
+54.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/cambio_pib.png Graphic file (t
+ype png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/cambio_pib.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/cambio_pib.
+png  used on input line 69.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/ipca_cambio.png, id=18, 698.61pt x 
+354.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/ipca_cambio.png Graphic file (
+type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/ipca_cambio.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/ipca_cambio
+.png  used on input line 76.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/ipca_ipca.png, id=19, 698.61pt x 35
+4.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/ipca_ipca.png Graphic file (ty
+pe png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/ipca_ipca.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/ipca_ipca.p
+ng  used on input line 83.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+ [2 <C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/cambio_juros.png> <C:/Users/Cai
+o Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3
+. Trabalho Final/4. Regressão/cambio_pib.png> <C:/Users/Caio Forcione/Desktop/
+Academic Projects/01. Economics/01. Master/06. Time Series/3. Trabalho Final/4.
+ Regressão/ipca_cambio.png>]
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/ipca_juros.png, id=30, 698.61pt x 3
+54.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/ipca_juros.png Graphic file (t
+ype png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/ipca_juros.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/ipca_juros.
+png  used on input line 90.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/ipca_pib.png, id=31, 698.61pt x 354
+.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/ipca_pib.png Graphic file (typ
+e png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/ipca_pib.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/ipca_pib.pn
+g  used on input line 97.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/juros_cambio.png, id=32, 698.61pt x
+ 354.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/juros_cambio.png Graphic file 
+(type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_cambio.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/juros_cambi
+o.png  used on input line 104.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+ [3 <C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/ipca_ipca.png> <C:/Users/Caio F
+orcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3. T
+rabalho Final/4. Regressão/ipca_juros.png> <C:/Users/Caio Forcione/Desktop/Aca
+demic Projects/01. Economics/01. Master/06. Time Series/3. Trabalho Final/4. Re
+gressão/ipca_pib.png>]
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/juros_pib.png, id=43, 698.61pt x 35
+4.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/juros_pib.png Graphic file (ty
+pe png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_pib.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/juros_pib.p
+ng  used on input line 111.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/juros_juros.png, id=44, 698.61pt x 
+354.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/juros_juros.png Graphic file (
+type png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_juros.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/juros_juros
+.png  used on input line 119.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/juros_ipca.png, id=45, 698.61pt x 3
+54.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/juros_ipca.png Graphic file (t
+ype png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_ipca.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/juros_ipca.
+png  used on input line 127.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+ [4 <C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_cambio.png> <C:/Users/Cai
+o Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3
+. Trabalho Final/4. Regressão/juros_pib.png> <C:/Users/Caio Forcione/Desktop/A
+cademic Projects/01. Economics/01. Master/06. Time Series/3. Trabalho Final/4. 
+Regressão/juros_juros.png>]
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/pib_cambio.png, id=56, 698.61pt x 3
+54.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/pib_cambio.png Graphic file (t
+ype png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/pib_cambio.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/pib_cambio.
+png  used on input line 135.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/pib_ipca.png, id=57, 698.61pt x 354
+.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/pib_ipca.png Graphic file (typ
+e png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/pib_ipca.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/pib_ipca.pn
+g  used on input line 144.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/pib_juros.png, id=58, 698.61pt x 35
+4.57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/pib_juros.png Graphic file (ty
+pe png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/pib_juros.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/pib_juros.p
+ng  used on input line 152.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+ [5 <C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/juros_ipca.png> <C:/Users/Caio 
+Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3. 
+Trabalho Final/4. Regressão/pib_cambio.png> <C:/Users/Caio Forcione/Desktop/Ac
+ademic Projects/01. Economics/01. Master/06. Time Series/3. Trabalho Final/4. R
+egressão/pib_ipca.png>]
+<C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/06. 
+Time Series/3. Trabalho Final/4. Regressão/pib_PIB.png, id=69, 698.61pt x 354.
+57469pt>
+File: C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master
+/06. Time Series/3. Trabalho Final/4. Regressão/pib_PIB.png Graphic file (type
+ png)
+<use C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/pib_PIB.png>
+Package pdftex.def Info: C:/Users/Caio Forcione/Desktop/Academic Projects/01. E
+conomics/01. Master/06. Time Series/3. Trabalho Final/4. Regressão/pib_PIB.png
+  used on input line 159.
+(pdftex.def)             Requested size: 330.42041pt x 167.70514pt.
+ [6 <C:/Users/Caio Forcione/Desktop/Academic Projects/01. Economics/01. Master/
+06. Time Series/3. Trabalho Final/4. Regressão/pib_juros.png> <C:/Users/Caio F
+orcione/Desktop/Academic Projects/01. Economics/01. Master/06. Time Series/3. T
+rabalho Final/4. Regressão/pib_PIB.png>] (Appendix.aux)
+Package rerunfilecheck Info: File `Appendix.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+ ) 
+Here is how much of TeX's memory you used:
+ 15080 strings out of 479334
+ 251713 string characters out of 2853246
+ 579593 words of memory out of 3000000
+ 32234 multiletter control sequences out of 15000+200000
+ 415910 words of font info for 57 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 97i,6n,131p,341b,352s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Users/Caio Forcione/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/base/8r
+.enc}<C:/Users/Caio Forcione/AppData/Local/Programs/MiKTeX/fonts/type1/urw/time
+s/utmb8a.pfb><C:/Users/Caio Forcione/AppData/Local/Programs/MiKTeX/fonts/type1/
+urw/times/utmr8a.pfb>
+Output written on Appendix.pdf (6 pages, 110442 bytes).
+PDF statistics:
+ 92 PDF objects out of 1000 (max. 8388607)
+ 23 named destinations out of 1000 (max. 500000)
+ 13905 words of extra memory for PDF output out of 14400 (max. 10000000)
+
